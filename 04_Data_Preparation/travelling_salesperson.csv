@@ -1,0 +1,8 @@
+ID,Years in Business,Total Sales,Region,Gender,Avg Discount,Customer Satisfaction,Training Hours
+1,2,200000,North,Male,NaN,3.5,400
+2,5,550000,NaN,Female,NaN,4.0,50
+3,10,980000,West,Male,14.3,NaN,10
+4,1,80000,North,Female,NaN,5.0,100
+5,15,1600000,North,Male,NaN,4.5,10
+6,7,900000,East,Female,NaN,4.2,5
+7,20,2100000,South,Male,10.1,2.5,200
